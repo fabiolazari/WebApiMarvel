@@ -1,0 +1,185 @@
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Refit.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Mvc.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Razor.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.pdb
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.dll.config
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Refit.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Mvc.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Razor.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Http.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\RefitStubs.g.cs
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lazari\source\repos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Refit.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Mvc.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Razor.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.pdb
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.dll.config
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\Refit.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Mvc.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Razor.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Http.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\RefitStubs.g.cs
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\Refit.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Mvc.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.WebHost.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Razor.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.pdb
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\ApiMarvel.dll.config
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\Refit.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Mvc.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Http.WebHost.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.Razor.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Http.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.Razor.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\RefitStubs.g.cs
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

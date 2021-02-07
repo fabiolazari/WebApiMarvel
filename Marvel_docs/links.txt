@@ -1,0 +1,16 @@
+
+
+persongensmarvel.txt
+
+
+
+
+http://gateway.marvel.com/v1/public/series?ts=1&apikey=473da253b3977826288936c4a61c0991&hash=8be15a064f1557728066139e0619aaf6
+
+
+http://gateway.marvel.com/v1/public/series/26024?ts=1&apikey=473da253b3977826288936c4a61c0991&hash=8be15a064f1557728066139e0619aaf6
+
+
+ 
+ 
+ 

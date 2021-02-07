@@ -1,0 +1,12 @@
+
+
+string Uri = "http://gateway.marvel.com";
+string Host = "/v1/public/series?ts=1&apikey=473da253b3977826288936c4a61c0991&hash=8be15a064f1557728066139e0619aaf6";
+
+
+
+https://renatogroffe.medium.com/consumo-de-apis-em-net-core-utilizando-a-marvel-comics-api-ebe9cc858589#_=
+
+
+https://developer.marvel.com/docs
+

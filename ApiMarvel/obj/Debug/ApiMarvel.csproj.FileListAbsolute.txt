@@ -1,0 +1,327 @@
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\ApiMarvel.dll.config
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\ApiMarvel.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\ApiMarvel.pdb
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\csc.exe
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\csc.exe.config
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\csc.rsp
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\csi.exe
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\csi.exe.config
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\csi.rsp
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.AppContext.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Console.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Net.Http.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.exe
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.exe.config
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.rsp
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Newtonsoft.Json.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Refit.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Buffers.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Memory.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Net.Http.Formatting.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Numerics.Vectors.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Text.Encodings.Web.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Text.Json.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.ValueTuple.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Helpers.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.WebHost.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Mvc.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Razor.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Newtonsoft.Json.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Refit.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Buffers.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Memory.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Numerics.Vectors.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Text.Encodings.Web.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Text.Json.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.ValueTuple.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Razor.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Helpers.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Mvc.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Net.Http.Formatting.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.WebHost.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\obj\Debug\RefitStubs.g.cs
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.csproj.CoreCompileInputs.cache
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.csproj.CopyComplete
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.dll
+C:\Users\Lazari\source\repos\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.pdb
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\ApiMarvel.dll.config
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\ApiMarvel.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\ApiMarvel.pdb
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\csc.exe
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\csc.exe.config
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\csc.rsp
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\csi.exe
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\csi.exe.config
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\csi.rsp
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.AppContext.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Console.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Net.Http.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.exe
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.exe.config
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.rsp
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Newtonsoft.Json.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Refit.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Buffers.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Memory.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Net.Http.Formatting.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Numerics.Vectors.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Text.Encodings.Web.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Text.Json.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.ValueTuple.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Helpers.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.WebHost.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Mvc.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Razor.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Newtonsoft.Json.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Refit.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Buffers.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Memory.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Numerics.Vectors.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Text.Encodings.Web.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Text.Json.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.ValueTuple.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Razor.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Helpers.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Mvc.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Net.Http.Formatting.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\System.Web.Http.WebHost.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\obj\Debug\RefitStubs.g.cs
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.csproj.CopyComplete
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.dll
+C:\Users\Fábio Costa\source\repos\Estudos\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.pdb
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\ApiMarvel.dll.config
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\ApiMarvel.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\ApiMarvel.pdb
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\csc.exe
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\csc.exe.config
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\csc.rsp
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\csi.exe
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\csi.exe.config
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\csi.rsp
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.AppContext.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Collections.Immutable.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Console.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Globalization.Calendars.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.Compression.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.FileSystem.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Net.Http.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Net.Sockets.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Reflection.Metadata.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.ValueTuple.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XPath.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.exe
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.exe.config
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\vbc.rsp
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\VBCSCompiler.exe
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\roslyn\VBCSCompiler.exe.config
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Microsoft.Web.Infrastructure.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Newtonsoft.Json.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Refit.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Buffers.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Memory.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Net.Http.Formatting.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Numerics.Vectors.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Text.Encodings.Web.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Text.Json.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Threading.Tasks.Extensions.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.ValueTuple.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Helpers.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Http.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Http.WebHost.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Mvc.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Razor.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Deployment.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Razor.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Newtonsoft.Json.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Refit.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Buffers.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Memory.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Numerics.Vectors.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Text.Encodings.Web.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Text.Json.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Threading.Tasks.Extensions.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.ValueTuple.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Razor.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Deployment.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Webpages.Razor.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Helpers.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Mvc.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Net.Http.Formatting.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Http.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\System.Web.Http.WebHost.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Razor.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Http.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.csprojAssemblyReference.cache
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\obj\Debug\RefitStubs.g.cs
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.csproj.CoreCompileInputs.cache
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.csproj.CopyComplete
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.dll
+D:\Estudos\Informatica\z Projetos\C#\WebApiMarvel\ApiMarvel\obj\Debug\ApiMarvel.pdb

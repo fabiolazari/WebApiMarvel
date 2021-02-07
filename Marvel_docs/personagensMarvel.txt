@@ -1,0 +1,515 @@
+Id: 26024 
+Name:  Superior Spider-Man Vol. 2: Otto-matic (2019) 
+Description: 
+
+	Characters: 
+		Spider-Man
+
+	Stories: 
+		cover from SUPERIOR SPIDER-MAN VOL. 2 TPB (2020) #2
+		story from SUPERIOR SPIDER-MAN VOL. 2 TPB (2020) #2
+
+	Comics: 
+		 Superior Spider-Man Vol. 2: Otto-matic (Trade Paperback)
+
+	Events: 
+
+
+Id: 18454 
+Name: 100th Anniversary Special (2014) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		cover from 100th Anniversary Special (2014) #1
+		story from 100th Anniversary Special (2014) #1
+		cover from 100th Anniversary Special (2014) #2
+		story from 100th Anniversary Special (2014) #2
+		cover from 100th Anniversary Special (2014) #3
+		story from 100th Anniversary Special (2014) #3
+		cover from 100th Anniversary Special (2014) #4
+		story from 100th Anniversary Special (2014) #4
+		cover from 100th Anniversary Special (2014) #5
+		story from 100th Anniversary Special (2014) #5
+
+	Comics: 
+		100th Anniversary Special (2014) #1
+		100th Anniversary Special (2014) #1
+		100th Anniversary Special (2014) #1
+		100th Anniversary Special (2014) #1
+		100th Anniversary Special (2014) #1
+
+	Events: 
+
+
+Id: 13379 
+Name: 15 Love (2011) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		Cover #82480
+		Interior #82481
+		Cover #82484
+		Interior #82485
+		15-Love (2011) #1
+		Interior #82487
+		cover from 15-Love #1.5
+		cover from 15-Love #2.5
+		cover from 15-Love #3.5
+
+	Comics: 
+		15 Love (2011) #1
+		15 Love (2011) #2
+		15 Love (2011) #3
+
+	Events: 
+
+
+Id: 13380 
+Name: 15-Love GN-TPB (2013 - Present) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		15-Love GN-TPB (2013) #1
+		Interior #82483
+
+	Comics: 
+		15-Love GN-TPB (Graphic Novel)
+
+	Events: 
+
+
+Id: 489 
+Name: 1602 (2003 - 2004) 
+Description: Award-winning writer Neil Gaiman teams with artist Andy Kubert to re-imagine the Marvel Universe in the year 1602! It's Spider-Man, the X-Men, Nick Fury, Doctor Strange, Daredevil and more as you'd never think to imagine them in an utterly unique and thrilling tale of high adventure!
+
+	Characters: 
+		Doctor Doom
+		Magneto
+		Matthew Murdock
+		Natasha Romanoff
+		Nick Fury
+		Spider-Man (1602)
+		The Watchers
+		Virginia Dare
+		X-Men
+
+	Stories: 
+		Cover #1600
+		Interior #1601
+		Cover #1616
+		Interior #1617
+		Cover #1723
+		Interior #1724
+		Cover #1770
+		Interior #1771
+		Cover #2264
+		Interior #2265
+		1602 #7
+		1602 #7
+		Cover #44869
+		Interior #44870
+		Cover from 1602 #2
+
+	Comics: 
+		1602 (2003) #1
+		1602 (2003) #2
+		1602 (2003) #3
+		1602 (2003) #4
+		1602 (2003) #5
+		1602 (2003) #6
+		1602 (2003) #7
+		1602 (2003) #8
+
+	Events: 
+
+
+Id: 19244 
+Name: 1602 Witch Hunter Angela (2015) 
+Description: 
+
+	Characters: 
+		Angela (Aldrif Odinsdottir)
+
+	Stories: 
+		cover from 1602 Witch Hunter Angela (2015) #1
+		story from 1602 Witch Hunter Angela (2015) #1
+		cover from 1602 Witch Hunter Angela (2015) #2
+		story from 1602 Witch Hunter Angela (2015) #2
+		cover from 1602 Witch Hunter Angela (2015) #3
+		story from 1602 Witch Hunter Angela (2015) #3
+		cover from 1602 Witch Hunter Angela (2015) #4
+		story from 1602 Witch Hunter Angela (2015) #4
+		cover from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST VARIANT)
+		story from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST VARIANT)
+		cover from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST MISTRESS OF GWENG FU VARIANT)
+		story from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST MISTRESS OF GWENG FU VARIANT)
+		cover from 1602 Witch Hunter Angela (2015) #2 (TBD ARTIST VARIANT)
+		story from 1602 Witch Hunter Angela (2015) #2 (TBD ARTIST VARIANT)
+		cover from 1602 Witch Hunter Angela (2015) #3 (IRVING VARIANT)
+		story from 1602 Witch Hunter Angela (2015) #3 (IRVING VARIANT)
+
+	Comics: 
+		1602 Witch Hunter Angela (2015) #1
+		1602 Witch Hunter Angela (2015) #1 (Christopher Gwengela Variant)
+		1602 Witch Hunter Angela (2015) #1 (Isanove Variant)
+		1602 Witch Hunter Angela (2015) #2
+		1602 Witch Hunter Angela (2015) #2 (Koh Variant)
+		1602 Witch Hunter Angela (2015) #3
+		1602 Witch Hunter Angela (2015) #3 (Irving Variant)
+		1602 Witch Hunter Angela (2015) #4
+
+	Events: 
+
+
+Id: 20293 
+Name: 1602 Witch Hunter Angela (2016) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+
+	Comics: 
+
+	Events: 
+
+
+Id: 19501 
+Name: 1872 (2015) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		cover from Marvel 1862 (2015) #1
+		story from Marvel 1862 (2015) #1
+		cover from Marvel 1862 (2015) #1 (YOUNG VARIANT)
+		story from Marvel 1862 (2015) #1 (YOUNG VARIANT)
+		cover from Marvel 1862 (2015) #2
+		story from Marvel 1862 (2015) #2
+		cover from Marvel 1862 (2015) #3
+		story from Marvel 1862 (2015) #3
+		cover from Marvel 1862 (2015) #4
+		story from Marvel 1862 (2015) #4
+		cover from Marvel 1862 (2015) #1 (SHANER VARIANT)
+		story from Marvel 1862 (2015) #1 (SHANER VARIANT)
+		cover from 1872 (2015) #3 (TBD ARTIST VARIANT)
+		story from 1872 (2015) #3 (TBD ARTIST VARIANT)
+
+	Comics: 
+		1872 (2015) #1
+		1872 (2015) #1 (Young Variant)
+		1872 (2015) #1 (Shaner Variant)
+		1872 (2015) #2
+		1872 (2015) #3
+		1872 (2015) #3 (Francavilla Variant)
+		1872 (2015) #4
+
+	Events: 
+
+
+Id: 7520 
+Name: 1939 Daily Bugle (2009 - Present) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		Cover #54073
+		Interior #54074
+
+	Comics: 
+		1939 Daily Bugle (2009) #6
+
+	Events: 
+
+
+Id: 7521 
+Name: 2009 Mini-Poster 6 (2009 - Present) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		Cover #53882
+		Interior #53883
+		Cover #53981
+		Interior #53982
+		Cover #54075
+		Interior #54076
+		Cover #54077
+		Interior #54078
+		Cover #54079
+		Interior #54080
+		Cover #54081
+		Interior #54082
+		Cover #54083
+		Interior #54084
+		Cover #54085
+		Interior #54086
+		Cover #54087
+		Interior #54088
+		Cover #54089
+		Interior #54090
+
+	Comics: 
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+		2009 Mini-Poster 6 (2009) #1
+
+	Events: 
+
+
+Id: 29693 
+Name: 2020 Force Works (2020) 
+Description: 
+
+	Characters: 
+		Mockingbird
+		Quake (Daisy Johnson)
+		U.S. Agent
+
+	Stories: 
+		cover from 2020 Force Works (2020) #1
+		story from 2020 Force Works (2020) #1
+		cover from 2020 Force Works (2020) #2
+		story from 2020 Force Works (2020) #2
+		cover from 2020 Force Works (2020) #3
+		story from 2020 Force Works (2020) #3
+		cover from 2020 Force Works (2020) #1 (VARIANT)
+		story from 2020 Force Works (2020) #1 (VARIANT)
+		cover from 2020 Force Works (2020) #1 (VARIANT)
+		story from 2020 Force Works (2020) #1 (VARIANT)
+		cover from 2020 Force Works (2020) #2
+		story from 2020 Force Works (2020) #2
+		cover from 2020 Force Works (2020) #3 (VARIANT)
+		story from 2020 Force Works (2020) #3 (VARIANT)
+
+	Comics: 
+		2020 Force Works (2020) #1
+		2020 Force Works (2020) #1 (Variant)
+		2020 Force Works (2020) #1 (Variant)
+		2020 Force Works (2020) #2
+		2020 Force Works (2020) #2 (Variant)
+		2020 Force Works (2020) #3
+		2020 Force Works (2020) #3 (Variant)
+
+	Events: 
+
+
+Id: 29692 
+Name: 2020 Iron Age (2020) 
+Description: 
+
+	Characters: 
+		Machine Man
+
+	Stories: 
+		cover from new series (2020) #1
+		story from new series (2020) #1
+		cover from 2020 Iron Age (2020) #1
+		story from 2020 Iron Age (2020) #1
+
+	Comics: 
+		2020 Iron Age (2020) #1
+		2020 Iron Age (2020) #1 (Variant)
+
+	Events: 
+
+
+Id: 29812 
+Name: 2020 IRON MANUAL (2020 - Present) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+
+	Comics: 
+
+	Events: 
+
+
+Id: 29694 
+Name: 2020 Ironheart (2020) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		cover from 2020 Ironheart (2020) #1
+		story from 2020 Ironheart (2020) #1
+		cover from 2020 Ironheart (2020) #2
+		story from 2020 Ironheart (2020) #2
+
+	Comics: 
+		2020 Ironheart (2020) #1
+		2020 Ironheart (2020) #2
+
+	Events: 
+
+
+Id: 29697 
+Name: 2020 iWolverine (2020) 
+Description: In the wake of Arno Stark’s crusade against A.I.s, no robot is safe. Fearing of Elsie Dee’s safety in these tumultuous times, Albert, the robot Wolverine, goes to Madripoor to find her…but what he finds is a fight against Madripoor’s criminal underbelly instead! 
+
+	Characters: 
+
+	Stories: 
+		cover from 2020 Weapon.Exe (2020) #1
+		story from 2020 Weapon.Exe (2020) #1
+		cover from 2020 Weapon.Exe (2020) #2
+		story from 2020 Weapon.Exe (2020) #2
+		cover from 2020 Iwolverine (2020) #2 (VARIANT)
+		story from 2020 Iwolverine (2020) #2 (VARIANT)
+
+	Comics: 
+		2020 iWolverine (2020) #1
+		2020 iWolverine (2020) #2
+		2020 iWolverine (2020) #2 (Variant)
+
+	Events: 
+
+
+Id: 29695 
+Name: 2020 Machine Man (2020) 
+Description: The A.I. uprising has begun, and Machine Man finds himself torn about his place in the revolution! As the battle rages around him, will Machine Man aid mankind’s fight for survival or join his robot brethren in ushering a new age? Plus, when faced with a figure from his past, Machine Man must decide—is it time to follow his programming or his heart? Don’t miss out on this epic adventure from Christos Gage and Andy MacDonald! Plus, revisit Machine Man in 2020 with legendary creator, Tom DeFalco! 
+
+	Characters: 
+		Jocasta
+		Machine Man
+
+	Stories: 
+		cover from 2020 Machine Man (2020) #1
+		story from 2020 Machine Man (2020) #1
+		cover from 2020 Machine Man (2020) #2
+		story from 2020 Machine Man (2020) #2
+		cover from 2020 Machine Man (2020) #1 (VARIANT)
+		story from 2020 Machine Man (2020) #1 (VARIANT)
+		cover from 2020 Machine Man (2020) #1 (VARIANT)
+		story from 2020 Machine Man (2020) #1 (VARIANT)
+		cover from 2020 Machine Man (2020) #2
+		story from 2020 Machine Man (2020) #2
+
+	Comics: 
+		2020 Machine Man (2020) #1
+		2020 Machine Man (2020) #1 (Variant)
+		2020 Machine Man (2020) #1 (Variant)
+		2020 Machine Man (2020) #2
+		2020 Machine Man (2020) #2 (Variant)
+
+	Events: 
+
+
+Id: 29696 
+Name: 2020 Rescue (2020) 
+Description: Pepper Potts moved on from Tony Stark. She’s getting her life together, finding her place in the world. Unfortunately, that’s exactly when Tony Stark decides it’s time for a full-tilt, full-blown meltdown. And if Pepper can’t suit up and save the day, Tony is toast. 
+
+	Characters: 
+		Pepper Potts
+
+	Stories: 
+		cover from 2020 Rescue (2020) #1
+		story from 2020 Rescue (2020) #1
+		cover from 2020 Rescue (2020) #2
+		story from 2020 Rescue (2020) #2
+		cover from 2020 Rescue (2020) #1
+		story from 2020 Rescue (2020) #1
+		cover from 2020 Rescue (2020) #2 (VARIANT)
+		story from 2020 Rescue (2020) #2 (VARIANT)
+
+	Comics: 
+		2020 Rescue (2020) #1
+		2020 Rescue (2020) #1 (Variant)
+		2020 Rescue (2020) #2
+		2020 Rescue (2020) #2 (Variant)
+
+	Events: 
+
+
+Id: 27980 
+Name: 2099 Alpha (2019) 
+Description: 
+
+	Characters: 
+		Spider-Man
+
+	Stories: 
+		cover from Amazing Spider-Man 2099 Alpha (2019) #1
+		story from Amazing Spider-Man 2099 Alpha (2019) #1
+		cover from new series (2019) #1
+		story from new series (2019) #1
+		cover from new series (2019) #1
+		story from new series (2019) #1
+		cover from 2099 Alpha (2019) #1 (VARIANT)
+		story from 2099 Alpha (2019) #1 (VARIANT)
+
+	Comics: 
+		2099 Alpha (2019) #1
+		2099 Alpha (2019) #1 (Variant)
+		2099 Alpha (2019) #1 (Variant)
+		2099 Alpha (2019) #1 (Variant)
+
+	Events: 
+
+
+Id: 27981 
+Name: 2099 Omega (2019) 
+Description: 
+
+	Characters: 
+
+	Stories: 
+		cover from Amazing Spider-Man 2099 Omega (2019) #1
+		story from Amazing Spider-Man 2099 Omega (2019) #1
+		cover from 2099 Omega (2019) #1 (VARIANT)
+		story from 2099 Omega (2019) #1 (VARIANT)
+		cover from 2099 Omega (2019) #1 (VARIANT)
+		story from 2099 Omega (2019) #1 (VARIANT)
+
+	Comics: 
+		2099 Omega (2019) #1
+		2099 Omega (2019) #1 (Variant)
+		2099 Omega (2019) #1 (Variant)
+
+	Events: 
+
+
+Id: 20018 
+Name: 2099 Unlimited (1993 - 1994) 
+Description: 
+
+	Characters: 
+		Spider-Man (2099)
+
+	Stories: 
+		cover to 2099 Unlimited (1993) #1
+		interior to 2099 Unlimited (1993) #1
+		cover to 2099 Unlimited (1993) #2
+		interior to 2099 Unlimited (1993) #2
+		cover to 2099 Unlimited (1993) #3
+		interior to 2099 Unlimited (1993) #3
+
+	Comics: 
+		2099 Unlimited (1993) #1
+		2099 Unlimited (1993) #2
+		2099 Unlimited (1993) #3
+
+	Events: 
+
+
+
